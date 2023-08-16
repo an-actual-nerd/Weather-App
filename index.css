@@ -1,0 +1,42 @@
+@import url('https://fonts.googleapis.com/css2?family=Arimo&display=swap');
+
+body {
+    font-family: 'Arimo', sans-serif;
+    background-image: url("https://images.unsplash.com/photo-1561484930-998b6a7b22e8?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=1170&q=80");
+    background-size: cover;
+}
+
+.input-group {
+    margin: auto;
+    margin-top: 100px;
+    width: 60%;
+    padding: 10px;
+}
+
+.submit-button {
+    padding-left: 10px;
+}
+
+.location {
+    margin: auto;
+    width: 60%;
+    padding: 10px;
+    text-align: center;
+    color: wheat;
+}
+
+.stats {
+    margin: auto;
+    width: 60%;
+    padding: 10px;
+    text-align: center;
+    color: wheat;
+}
+
+.location .city {
+    font-size: 100px;
+}
+
+.stats .temp{
+    font-size: 100px;
+}
